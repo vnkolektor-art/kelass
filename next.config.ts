@@ -4,8 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/NAMA-REPO',
-  assetPrefix: '/NAMA-REPO/',
+  // nama repo kamu
+  basePath: '/kelass',
+  assetPrefix: '/kelass/',
 };
 
 export default nextConfig;
